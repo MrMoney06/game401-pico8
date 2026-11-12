@@ -23,7 +23,7 @@ cls(1)
 
 if not started then
 
-print("my awesome game",32,45,7)
+print("not ninja gaiden",32,45,7)
 
 print("press z to start",32,65,10)
 
